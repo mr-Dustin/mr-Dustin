@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me via FB, Instagram
 - 😄 Pronouns: Bro
-- ⚡ Fun fact: xie xie
+- ⚡ Fun fact: 中国人 & 菲
 
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
