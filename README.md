@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me via FB, Instagram
 - 😄 Pronouns: Bro
-- ⚡ Fun fact: 中国人 & 菲
+- ⚡ Fun fact: 中国人 & 菲律宾
 
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,15 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-
-
-
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
